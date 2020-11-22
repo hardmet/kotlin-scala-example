@@ -1,0 +1,8 @@
+.bloop/
+.dotty-ide*
+.idea/
+.metals/
+*.worksheet.sc
+metals.sbt
+target/
+.bsp/
